@@ -1,0 +1,61 @@
+#icono {
+    display: flex;
+    width: 64px;
+    height: 64px;
+    padding: 4.763px 0.595px 5.06px 0.595px;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+}
+
+#Pr {
+    color: var(--black, #0D0D0D);
+    font-family: Inter;
+    font-size: 34px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 40px;
+}
+
+#Search {
+    width: 312px;
+    height: 60px;
+    flex-shrink: 0;
+    border-radius: 30px;
+    background: #E7E7E7;
+    color: #9A9A9D;
+    font-family: Inter;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 40px;
+}
+
+.btn-primary {
+    height: 3px;
+    align-self: stretch;
+    border-radius: 40px;
+    background: #FA4A0C;
+    box-shadow: 0px 4px 4px 0px rgba(195, 63, 21, 0.10);
+    color: #FA4A0C;
+    text-align: center;
+    font-family: Inter;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 40px;
+
+
+}
+
+#Lup{
+    width: 17.885px;
+height: 18px;
+}
+
+.btn-primary:hover{
+    background-color: brown;
+}
